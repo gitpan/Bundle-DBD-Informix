@@ -1,0 +1,7 @@
+Bundle::DBD::Informix - CPAN Bundle for DBD::Informix and its dependencies
+
+For details, see Informix.pm file.
+
+Created by Jonathan Leffler <jleffler@informix.com>
+
+@(#)$Id: README,v 1.2 1999/08/23 23:10:26 jleffler Exp $
